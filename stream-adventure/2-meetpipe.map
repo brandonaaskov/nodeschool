@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "2-meetpipe.js",
+  "sourceRoot": "",
+  "sources": [
+    "2-meetpipe.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,EAAA;;AAAA,EAAA,EAAA,GAAK,OAAA,CAAQ,IAAR,CAAL,CAAA;;AAAA,EACA,EAAE,CAAC,gBAAH,CAAoB,OAAO,CAAC,IAAK,CAAA,CAAA,CAAjC,CAAoC,CAAC,IAArC,CAA0C,OAAO,CAAC,MAAlD,CADA,CAAA;AAAA"
+}

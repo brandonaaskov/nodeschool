@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "8-http-client.js",
+  "sourceRoot": "",
+  "sources": [
+    "8-http-client.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,eAAA;;AAAA,EAAA,OAAA,GAAU,OAAA,CAAQ,SAAR,CAAV,CAAA;;AAAA,EACA,MAAA,GAAS,OAAO,CAAC,IAAR,CAAa,uBAAb,CADT,CAAA;;AAAA,EAGA,OAAO,CAAC,KAAK,CAAC,IAAd,CAAmB,MAAnB,CAA0B,CAAC,IAA3B,CAAgC,OAAO,CAAC,MAAxC,CAHA,CAAA;AAAA"
+}

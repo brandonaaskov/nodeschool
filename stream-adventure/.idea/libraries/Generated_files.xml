@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/6-concat.js" />
+        <item url="file://$PROJECT_DIR$/2-meetpipe.js" />
+        <item url="file://$PROJECT_DIR$/7-http-server.js" />
+        <item url="file://$PROJECT_DIR$/3-io.js" />
+        <item url="file://$PROJECT_DIR$/8-http-client.js" />
+        <item url="file://$PROJECT_DIR$/9-websockets.js" />
+        <item url="file://$PROJECT_DIR$/10-html-stream.js" />
+        <item url="file://$PROJECT_DIR$/5-lines.js" />
+        <item url="file://$PROJECT_DIR$/4-transform.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/1-beepboop.js" />
+      <root url="file://$PROJECT_DIR$/concat.js" />
+      <root url="file://$PROJECT_DIR$/1-beepboop.js" />
+      <root url="file://$PROJECT_DIR$/concat.js" />
+      <root url="file://$PROJECT_DIR$/6-concat.js" />
+      <root url="file://$PROJECT_DIR$/2-meetpipe.js" />
+      <root url="file://$PROJECT_DIR$/7-http-server.js" />
+      <root url="file://$PROJECT_DIR$/3-io.js" />
+      <root url="file://$PROJECT_DIR$/8-http-client.js" />
+      <root url="file://$PROJECT_DIR$/9-websockets.js" />
+      <root url="file://$PROJECT_DIR$/10-html-stream.js" />
+      <root url="file://$PROJECT_DIR$/5-lines.js" />
+      <root url="file://$PROJECT_DIR$/4-transform.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

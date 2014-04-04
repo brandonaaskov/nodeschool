@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "3-io.js",
+  "sourceRoot": "",
+  "sources": [
+    "3-io.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,EAAA,OAAO,CAAC,KAAK,CAAC,IAAd,CAAmB,OAAO,CAAC,MAA3B,CAAA,CAAA;AAAA"
+}
